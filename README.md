@@ -34,6 +34,9 @@
 
 <tr style="border-bottom:1px solid #1E2240;">
   <td style="width:5px;background:#e3a358;padding:0;border-radius:6px 0 0 6px;"></td>
+  <td style="width:90px;padding:12px 0 12px 12px;vertical-align:middle;text-align:center;">
+    <img src="assets/headshots/elon_musk.jpg" width="72" height="72" style="border-radius:50%;object-fit:cover;display:block;margin:0 auto;" alt="Elon Musk">
+  </td>
   <td style="padding:20px 24px;vertical-align:top;">
     <div style="display:flex;align-items:center;gap:12px;margin-bottom:6px;flex-wrap:wrap;">
       <span style="font-size:20px;font-weight:700;color:#E6F1FF;">Elon Musk</span>
@@ -47,6 +50,9 @@
 </tr>
 <tr style="border-bottom:1px solid #1E2240;">
   <td style="width:5px;background:#2cf1d0;padding:0;border-radius:6px 0 0 6px;"></td>
+  <td style="width:90px;padding:12px 0 12px 12px;vertical-align:middle;text-align:center;">
+    <img src="assets/headshots/sam_altman.jpg" width="72" height="72" style="border-radius:50%;object-fit:cover;display:block;margin:0 auto;" alt="Sam Altman">
+  </td>
   <td style="padding:20px 24px;vertical-align:top;">
     <div style="display:flex;align-items:center;gap:12px;margin-bottom:6px;flex-wrap:wrap;">
       <span style="font-size:20px;font-weight:700;color:#E6F1FF;">Sam Altman</span>
@@ -60,6 +66,9 @@
 </tr>
 <tr style="border-bottom:1px solid #1E2240;">
   <td style="width:5px;background:#e439ab;padding:0;border-radius:6px 0 0 6px;"></td>
+  <td style="width:90px;padding:12px 0 12px 12px;vertical-align:middle;text-align:center;">
+    <img src="assets/headshots/dario_amodei.jpg" width="72" height="72" style="border-radius:50%;object-fit:cover;display:block;margin:0 auto;" alt="Dario Amodei">
+  </td>
   <td style="padding:20px 24px;vertical-align:top;">
     <div style="display:flex;align-items:center;gap:12px;margin-bottom:6px;flex-wrap:wrap;">
       <span style="font-size:20px;font-weight:700;color:#E6F1FF;">Dario Amodei</span>
@@ -73,6 +82,9 @@
 </tr>
 <tr style="border-bottom:1px solid #1E2240;">
   <td style="width:5px;background:#d2df3e;padding:0;border-radius:6px 0 0 6px;"></td>
+  <td style="width:90px;padding:12px 0 12px 12px;vertical-align:middle;text-align:center;">
+    <img src="assets/headshots/eliezer_yudkowsky.jpg" width="72" height="72" style="border-radius:50%;object-fit:cover;display:block;margin:0 auto;" alt="Eliezer Yudkowsky">
+  </td>
   <td style="padding:20px 24px;vertical-align:top;">
     <div style="display:flex;align-items:center;gap:12px;margin-bottom:6px;flex-wrap:wrap;">
       <span style="font-size:20px;font-weight:700;color:#E6F1FF;">Eliezer Yudkowsky</span>
@@ -86,6 +98,9 @@
 </tr>
 <tr style="border-bottom:1px solid #1E2240;">
   <td style="width:5px;background:#c854e7;padding:0;border-radius:6px 0 0 6px;"></td>
+  <td style="width:90px;padding:12px 0 12px 12px;vertical-align:middle;text-align:center;">
+    <img src="assets/headshots/shane_legg.jpg" width="72" height="72" style="border-radius:50%;object-fit:cover;display:block;margin:0 auto;" alt="Shane Legg">
+  </td>
   <td style="padding:20px 24px;vertical-align:top;">
     <div style="display:flex;align-items:center;gap:12px;margin-bottom:6px;flex-wrap:wrap;">
       <span style="font-size:20px;font-weight:700;color:#E6F1FF;">Shane Legg</span>
@@ -99,6 +114,9 @@
 </tr>
 <tr style="border-bottom:1px solid #1E2240;">
   <td style="width:5px;background:#eab414;padding:0;border-radius:6px 0 0 6px;"></td>
+  <td style="width:90px;padding:12px 0 12px 12px;vertical-align:middle;text-align:center;">
+    <img src="assets/headshots/ben_goertzel.jpg" width="72" height="72" style="border-radius:50%;object-fit:cover;display:block;margin:0 auto;" alt="Ben Goertzel">
+  </td>
   <td style="padding:20px 24px;vertical-align:top;">
     <div style="display:flex;align-items:center;gap:12px;margin-bottom:6px;flex-wrap:wrap;">
       <span style="font-size:20px;font-weight:700;color:#E6F1FF;">Ben Goertzel</span>
@@ -112,6 +130,9 @@
 </tr>
 <tr style="border-bottom:1px solid #1E2240;">
   <td style="width:5px;background:#e4dc39;padding:0;border-radius:6px 0 0 6px;"></td>
+  <td style="width:90px;padding:12px 0 12px 12px;vertical-align:middle;text-align:center;">
+    <img src="assets/headshots/connor_leahy.jpg" width="72" height="72" style="border-radius:50%;object-fit:cover;display:block;margin:0 auto;" alt="Connor Leahy">
+  </td>
   <td style="padding:20px 24px;vertical-align:top;">
     <div style="display:flex;align-items:center;gap:12px;margin-bottom:6px;flex-wrap:wrap;">
       <span style="font-size:20px;font-weight:700;color:#E6F1FF;">Connor Leahy</span>
@@ -125,6 +146,9 @@
 </tr>
 <tr style="border-bottom:1px solid #1E2240;">
   <td style="width:5px;background:#ea14cf;padding:0;border-radius:6px 0 0 6px;"></td>
+  <td style="width:90px;padding:12px 0 12px 12px;vertical-align:middle;text-align:center;">
+    <img src="assets/headshots/demis_hassabis.jpg" width="72" height="72" style="border-radius:50%;object-fit:cover;display:block;margin:0 auto;" alt="Demis Hassabis">
+  </td>
   <td style="padding:20px 24px;vertical-align:top;">
     <div style="display:flex;align-items:center;gap:12px;margin-bottom:6px;flex-wrap:wrap;">
       <span style="font-size:20px;font-weight:700;color:#E6F1FF;">Demis Hassabis</span>
@@ -138,6 +162,9 @@
 </tr>
 <tr style="border-bottom:1px solid #1E2240;">
   <td style="width:5px;background:#4e1ee0;padding:0;border-radius:6px 0 0 6px;"></td>
+  <td style="width:90px;padding:12px 0 12px 12px;vertical-align:middle;text-align:center;">
+    <img src="assets/headshots/ray_kurzweil.jpg" width="72" height="72" style="border-radius:50%;object-fit:cover;display:block;margin:0 auto;" alt="Ray Kurzweil">
+  </td>
   <td style="padding:20px 24px;vertical-align:top;">
     <div style="display:flex;align-items:center;gap:12px;margin-bottom:6px;flex-wrap:wrap;">
       <span style="font-size:20px;font-weight:700;color:#E6F1FF;">Ray Kurzweil</span>
@@ -151,6 +178,9 @@
 </tr>
 <tr style="border-bottom:1px solid #1E2240;">
   <td style="width:5px;background:#19e57f;padding:0;border-radius:6px 0 0 6px;"></td>
+  <td style="width:90px;padding:12px 0 12px 12px;vertical-align:middle;text-align:center;">
+    <img src="assets/headshots/ilya_sutskever.jpg" width="72" height="72" style="border-radius:50%;object-fit:cover;display:block;margin:0 auto;" alt="Ilya Sutskever">
+  </td>
   <td style="padding:20px 24px;vertical-align:top;">
     <div style="display:flex;align-items:center;gap:12px;margin-bottom:6px;flex-wrap:wrap;">
       <span style="font-size:20px;font-weight:700;color:#E6F1FF;">Ilya Sutskever</span>
@@ -164,6 +194,9 @@
 </tr>
 <tr style="border-bottom:1px solid #1E2240;">
   <td style="width:5px;background:#abeb50;padding:0;border-radius:6px 0 0 6px;"></td>
+  <td style="width:90px;padding:12px 0 12px 12px;vertical-align:middle;text-align:center;">
+    <img src="assets/headshots/yoshua_bengio.jpg" width="72" height="72" style="border-radius:50%;object-fit:cover;display:block;margin:0 auto;" alt="Yoshua Bengio">
+  </td>
   <td style="padding:20px 24px;vertical-align:top;">
     <div style="display:flex;align-items:center;gap:12px;margin-bottom:6px;flex-wrap:wrap;">
       <span style="font-size:20px;font-weight:700;color:#E6F1FF;">Yoshua Bengio</span>
@@ -177,6 +210,9 @@
 </tr>
 <tr style="border-bottom:1px solid #1E2240;">
   <td style="width:5px;background:#db2323;padding:0;border-radius:6px 0 0 6px;"></td>
+  <td style="width:90px;padding:12px 0 12px 12px;vertical-align:middle;text-align:center;">
+    <img src="assets/headshots/geoffrey_hinton.jpg" width="72" height="72" style="border-radius:50%;object-fit:cover;display:block;margin:0 auto;" alt="Geoffrey Hinton">
+  </td>
   <td style="padding:20px 24px;vertical-align:top;">
     <div style="display:flex;align-items:center;gap:12px;margin-bottom:6px;flex-wrap:wrap;">
       <span style="font-size:20px;font-weight:700;color:#E6F1FF;">Geoffrey Hinton</span>
@@ -190,6 +226,9 @@
 </tr>
 <tr style="border-bottom:1px solid #1E2240;">
   <td style="width:5px;background:#396be4;padding:0;border-radius:6px 0 0 6px;"></td>
+  <td style="width:90px;padding:12px 0 12px 12px;vertical-align:middle;text-align:center;">
+    <img src="assets/headshots/yann_lecun.jpg" width="72" height="72" style="border-radius:50%;object-fit:cover;display:block;margin:0 auto;" alt="Yann LeCun">
+  </td>
   <td style="padding:20px 24px;vertical-align:top;">
     <div style="display:flex;align-items:center;gap:12px;margin-bottom:6px;flex-wrap:wrap;">
       <span style="font-size:20px;font-weight:700;color:#E6F1FF;">Yann LeCun</span>
@@ -203,6 +242,9 @@
 </tr>
 <tr style="border-bottom:1px solid #1E2240;">
   <td style="width:5px;background:#3ce835;padding:0;border-radius:6px 0 0 6px;"></td>
+  <td style="width:90px;padding:12px 0 12px 12px;vertical-align:middle;text-align:center;">
+    <img src="assets/headshots/nick_bostrom.jpg" width="72" height="72" style="border-radius:50%;object-fit:cover;display:block;margin:0 auto;" alt="Nick Bostrom">
+  </td>
   <td style="padding:20px 24px;vertical-align:top;">
     <div style="display:flex;align-items:center;gap:12px;margin-bottom:6px;flex-wrap:wrap;">
       <span style="font-size:20px;font-weight:700;color:#E6F1FF;">Nick Bostrom</span>
@@ -216,6 +258,9 @@
 </tr>
 <tr style="border-bottom:1px solid #1E2240;">
   <td style="width:5px;background:#ef4c83;padding:0;border-radius:6px 0 0 6px;"></td>
+  <td style="width:90px;padding:12px 0 12px 12px;vertical-align:middle;text-align:center;">
+    <img src="assets/headshots/stuart_russell.jpg" width="72" height="72" style="border-radius:50%;object-fit:cover;display:block;margin:0 auto;" alt="Stuart Russell">
+  </td>
   <td style="padding:20px 24px;vertical-align:top;">
     <div style="display:flex;align-items:center;gap:12px;margin-bottom:6px;flex-wrap:wrap;">
       <span style="font-size:20px;font-weight:700;color:#E6F1FF;">Stuart Russell</span>
@@ -229,6 +274,9 @@
 </tr>
 <tr style="border-bottom:1px solid #1E2240;">
   <td style="width:5px;background:#68db23;padding:0;border-radius:6px 0 0 6px;"></td>
+  <td style="width:90px;padding:12px 0 12px 12px;vertical-align:middle;text-align:center;">
+    <img src="assets/headshots/jurgen_schmidhuber.jpg" width="72" height="72" style="border-radius:50%;object-fit:cover;display:block;margin:0 auto;" alt="Jürgen Schmidhuber">
+  </td>
   <td style="padding:20px 24px;vertical-align:top;">
     <div style="display:flex;align-items:center;gap:12px;margin-bottom:6px;flex-wrap:wrap;">
       <span style="font-size:20px;font-weight:700;color:#E6F1FF;">Jürgen Schmidhuber</span>
@@ -242,6 +290,9 @@
 </tr>
 <tr style="border-bottom:1px solid #1E2240;">
   <td style="width:5px;background:#e79154;padding:0;border-radius:6px 0 0 6px;"></td>
+  <td style="width:90px;padding:12px 0 12px 12px;vertical-align:middle;text-align:center;">
+    <img src="assets/headshots/david_chalmers.jpg" width="72" height="72" style="border-radius:50%;object-fit:cover;display:block;margin:0 auto;" alt="David Chalmers">
+  </td>
   <td style="padding:20px 24px;vertical-align:top;">
     <div style="display:flex;align-items:center;gap:12px;margin-bottom:6px;flex-wrap:wrap;">
       <span style="font-size:20px;font-weight:700;color:#E6F1FF;">David Chalmers</span>
@@ -255,6 +306,9 @@
 </tr>
 <tr style="border-bottom:1px solid #1E2240;">
   <td style="width:5px;background:#3580e8;padding:0;border-radius:6px 0 0 6px;"></td>
+  <td style="width:90px;padding:12px 0 12px 12px;vertical-align:middle;text-align:center;">
+    <img src="assets/headshots/marvin_minsky.jpg" width="72" height="72" style="border-radius:50%;object-fit:cover;display:block;margin:0 auto;" alt="Marvin Minsky">
+  </td>
   <td style="padding:20px 24px;vertical-align:top;">
     <div style="display:flex;align-items:center;gap:12px;margin-bottom:6px;flex-wrap:wrap;">
       <span style="font-size:20px;font-weight:700;color:#E6F1FF;">Marvin Minsky</span>
@@ -268,6 +322,9 @@
 </tr>
 <tr style="border-bottom:1px solid #1E2240;">
   <td style="width:5px;background:#50ed30;padding:0;border-radius:6px 0 0 6px;"></td>
+  <td style="width:90px;padding:12px 0 12px 12px;vertical-align:middle;text-align:center;">
+    <img src="assets/headshots/roman_yampolskiy.jpg" width="72" height="72" style="border-radius:50%;object-fit:cover;display:block;margin:0 auto;" alt="Roman Yampolskiy">
+  </td>
   <td style="padding:20px 24px;vertical-align:top;">
     <div style="display:flex;align-items:center;gap:12px;margin-bottom:6px;flex-wrap:wrap;">
       <span style="font-size:20px;font-weight:700;color:#E6F1FF;">Roman Yampolskiy</span>
@@ -281,6 +338,9 @@
 </tr>
 <tr style="border-bottom:1px solid #1E2240;">
   <td style="width:5px;background:#b750eb;padding:0;border-radius:6px 0 0 6px;"></td>
+  <td style="width:90px;padding:12px 0 12px 12px;vertical-align:middle;text-align:center;">
+    <img src="assets/headshots/kevin_kelly.jpg" width="72" height="72" style="border-radius:50%;object-fit:cover;display:block;margin:0 auto;" alt="Kevin Kelly">
+  </td>
   <td style="padding:20px 24px;vertical-align:top;">
     <div style="display:flex;align-items:center;gap:12px;margin-bottom:6px;flex-wrap:wrap;">
       <span style="font-size:20px;font-weight:700;color:#E6F1FF;">Kevin Kelly</span>
@@ -294,6 +354,9 @@
 </tr>
 <tr style="border-bottom:1px solid #1E2240;">
   <td style="width:5px;background:#0f9bef;padding:0;border-radius:6px 0 0 6px;"></td>
+  <td style="width:90px;padding:12px 0 12px 12px;vertical-align:middle;text-align:center;">
+    <img src="assets/headshots/max_tegmark.jpg" width="72" height="72" style="border-radius:50%;object-fit:cover;display:block;margin:0 auto;" alt="Max Tegmark">
+  </td>
   <td style="padding:20px 24px;vertical-align:top;">
     <div style="display:flex;align-items:center;gap:12px;margin-bottom:6px;flex-wrap:wrap;">
       <span style="font-size:20px;font-weight:700;color:#E6F1FF;">Max Tegmark</span>
@@ -307,6 +370,9 @@
 </tr>
 <tr style="border-bottom:1px solid #1E2240;">
   <td style="width:5px;background:#ef0fef;padding:0;border-radius:6px 0 0 6px;"></td>
+  <td style="width:90px;padding:12px 0 12px 12px;vertical-align:middle;text-align:center;">
+    <img src="assets/headshots/norbert_wiener.jpg" width="72" height="72" style="border-radius:50%;object-fit:cover;display:block;margin:0 auto;" alt="Norbert Wiener">
+  </td>
   <td style="padding:20px 24px;vertical-align:top;">
     <div style="display:flex;align-items:center;gap:12px;margin-bottom:6px;flex-wrap:wrap;">
       <span style="font-size:20px;font-weight:700;color:#E6F1FF;">Norbert Wiener</span>
@@ -320,6 +386,9 @@
 </tr>
 <tr style="border-bottom:1px solid #1E2240;">
   <td style="width:5px;background:#4857f3;padding:0;border-radius:6px 0 0 6px;"></td>
+  <td style="width:90px;padding:12px 0 12px 12px;vertical-align:middle;text-align:center;">
+    <img src="assets/headshots/feifei_li.jpg" width="72" height="72" style="border-radius:50%;object-fit:cover;display:block;margin:0 auto;" alt="Fei-Fei Li">
+  </td>
   <td style="padding:20px 24px;vertical-align:top;">
     <div style="display:flex;align-items:center;gap:12px;margin-bottom:6px;flex-wrap:wrap;">
       <span style="font-size:20px;font-weight:700;color:#E6F1FF;">Fei-Fei Li</span>
@@ -333,6 +402,9 @@
 </tr>
 <tr style="border-bottom:1px solid #1E2240;">
   <td style="width:5px;background:#50e5eb;padding:0;border-radius:6px 0 0 6px;"></td>
+  <td style="width:90px;padding:12px 0 12px 12px;vertical-align:middle;text-align:center;">
+    <img src="assets/headshots/gary_marcus.jpg" width="72" height="72" style="border-radius:50%;object-fit:cover;display:block;margin:0 auto;" alt="Gary Marcus">
+  </td>
   <td style="padding:20px 24px;vertical-align:top;">
     <div style="display:flex;align-items:center;gap:12px;margin-bottom:6px;flex-wrap:wrap;">
       <span style="font-size:20px;font-weight:700;color:#E6F1FF;">Gary Marcus</span>
@@ -346,6 +418,9 @@
 </tr>
 <tr style="border-bottom:1px solid #1E2240;">
   <td style="width:5px;background:#e01e37;padding:0;border-radius:6px 0 0 6px;"></td>
+  <td style="width:90px;padding:12px 0 12px 12px;vertical-align:middle;text-align:center;">
+    <img src="assets/headshots/john_mccarthy.jpg" width="72" height="72" style="border-radius:50%;object-fit:cover;display:block;margin:0 auto;" alt="John McCarthy">
+  </td>
   <td style="padding:20px 24px;vertical-align:top;">
     <div style="display:flex;align-items:center;gap:12px;margin-bottom:6px;flex-wrap:wrap;">
       <span style="font-size:20px;font-weight:700;color:#E6F1FF;">John McCarthy</span>
@@ -359,6 +434,9 @@
 </tr>
 <tr style="border-bottom:1px solid #1E2240;">
   <td style="width:5px;background:#c0ef4c;padding:0;border-radius:6px 0 0 6px;"></td>
+  <td style="width:90px;padding:12px 0 12px 12px;vertical-align:middle;text-align:center;">
+    <img src="assets/headshots/claude_shannon.jpg" width="72" height="72" style="border-radius:50%;object-fit:cover;display:block;margin:0 auto;" alt="Claude Shannon">
+  </td>
   <td style="padding:20px 24px;vertical-align:top;">
     <div style="display:flex;align-items:center;gap:12px;margin-bottom:6px;flex-wrap:wrap;">
       <span style="font-size:20px;font-weight:700;color:#E6F1FF;">Claude Shannon</span>
@@ -372,6 +450,9 @@
 </tr>
 <tr style="border-bottom:1px solid #1E2240;">
   <td style="width:5px;background:#3edfaf;padding:0;border-radius:6px 0 0 6px;"></td>
+  <td style="width:90px;padding:12px 0 12px 12px;vertical-align:middle;text-align:center;">
+    <img src="assets/headshots/daniel_dennett.jpg" width="72" height="72" style="border-radius:50%;object-fit:cover;display:block;margin:0 auto;" alt="Daniel Dennett">
+  </td>
   <td style="padding:20px 24px;vertical-align:top;">
     <div style="display:flex;align-items:center;gap:12px;margin-bottom:6px;flex-wrap:wrap;">
       <span style="font-size:20px;font-weight:700;color:#E6F1FF;">Daniel Dennett</span>
@@ -385,6 +466,9 @@
 </tr>
 <tr style="border-bottom:1px solid #1E2240;">
   <td style="width:5px;background:#f34897;padding:0;border-radius:6px 0 0 6px;"></td>
+  <td style="width:90px;padding:12px 0 12px 12px;vertical-align:middle;text-align:center;">
+    <img src="assets/headshots/jaron_lanier.jpg" width="72" height="72" style="border-radius:50%;object-fit:cover;display:block;margin:0 auto;" alt="Jaron Lanier">
+  </td>
   <td style="padding:20px 24px;vertical-align:top;">
     <div style="display:flex;align-items:center;gap:12px;margin-bottom:6px;flex-wrap:wrap;">
       <span style="font-size:20px;font-weight:700;color:#E6F1FF;">Jaron Lanier</span>
@@ -398,6 +482,9 @@
 </tr>
 <tr style="border-bottom:1px solid #1E2240;">
   <td style="width:5px;background:#ed5730;padding:0;border-radius:6px 0 0 6px;"></td>
+  <td style="width:90px;padding:12px 0 12px 12px;vertical-align:middle;text-align:center;">
+    <img src="assets/headshots/andrew_ng.jpg" width="72" height="72" style="border-radius:50%;object-fit:cover;display:block;margin:0 auto;" alt="Andrew Ng">
+  </td>
   <td style="padding:20px 24px;vertical-align:top;">
     <div style="display:flex;align-items:center;gap:12px;margin-bottom:6px;flex-wrap:wrap;">
       <span style="font-size:20px;font-weight:700;color:#E6F1FF;">Andrew Ng</span>
@@ -411,6 +498,9 @@
 </tr>
 <tr style="border-bottom:1px solid #1E2240;">
   <td style="width:5px;background:#862cf1;padding:0;border-radius:6px 0 0 6px;"></td>
+  <td style="width:90px;padding:12px 0 12px 12px;vertical-align:middle;text-align:center;">
+    <img src="assets/headshots/stephen_hawking.jpg" width="72" height="72" style="border-radius:50%;object-fit:cover;display:block;margin:0 auto;" alt="Stephen Hawking">
+  </td>
   <td style="padding:20px 24px;vertical-align:top;">
     <div style="display:flex;align-items:center;gap:12px;margin-bottom:6px;flex-wrap:wrap;">
       <span style="font-size:20px;font-weight:700;color:#E6F1FF;">Stephen Hawking</span>
@@ -424,6 +514,9 @@
 </tr>
 <tr style="border-bottom:1px solid #1E2240;">
   <td style="width:5px;background:#3219e5;padding:0;border-radius:6px 0 0 6px;"></td>
+  <td style="width:90px;padding:12px 0 12px 12px;vertical-align:middle;text-align:center;">
+    <img src="assets/headshots/michio_kaku.jpg" width="72" height="72" style="border-radius:50%;object-fit:cover;display:block;margin:0 auto;" alt="Michio Kaku">
+  </td>
   <td style="padding:20px 24px;vertical-align:top;">
     <div style="display:flex;align-items:center;gap:12px;margin-bottom:6px;flex-wrap:wrap;">
       <span style="font-size:20px;font-weight:700;color:#E6F1FF;">Michio Kaku</span>
@@ -437,6 +530,9 @@
 </tr>
 <tr style="border-bottom:1px solid #1E2240;">
   <td style="width:5px;background:#23aedb;padding:0;border-radius:6px 0 0 6px;"></td>
+  <td style="width:90px;padding:12px 0 12px 12px;vertical-align:middle;text-align:center;">
+    <img src="assets/headshots/timnit_gebru.jpg" width="72" height="72" style="border-radius:50%;object-fit:cover;display:block;margin:0 auto;" alt="Timnit Gebru">
+  </td>
   <td style="padding:20px 24px;vertical-align:top;">
     <div style="display:flex;align-items:center;gap:12px;margin-bottom:6px;flex-wrap:wrap;">
       <span style="font-size:20px;font-weight:700;color:#E6F1FF;">Timnit Gebru</span>
@@ -450,6 +546,9 @@
 </tr>
 <tr style="border-bottom:1px solid #1E2240;">
   <td style="width:5px;background:#58e36f;padding:0;border-radius:6px 0 0 6px;"></td>
+  <td style="width:90px;padding:12px 0 12px 12px;vertical-align:middle;text-align:center;">
+    <img src="assets/headshots/alan_turing.jpg" width="72" height="72" style="border-radius:50%;object-fit:cover;display:block;margin:0 auto;" alt="Alan Turing">
+  </td>
   <td style="padding:20px 24px;vertical-align:top;">
     <div style="display:flex;align-items:center;gap:12px;margin-bottom:6px;flex-wrap:wrap;">
       <span style="font-size:20px;font-weight:700;color:#E6F1FF;">Alan Turing</span>

@@ -1,0 +1,209 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1100" role="img" aria-label="AGI timeline">
+<defs>
+<linearGradient id="bg" x1="0" x2="0" y1="0" y2="1">
+ <stop offset="0" stop-color="#04010a"/><stop offset="1" stop-color="#0a0420"/>
+</linearGradient>
+<linearGradient id="axis" x1="0" x2="1"><stop offset="0" stop-color="#ff006e"/><stop offset=".5" stop-color="#8338ec"/><stop offset="1" stop-color="#3a86ff"/></linearGradient>
+<filter id="g"><feGaussianBlur stdDeviation="2.2"/></filter>
+</defs>
+<rect width="1600" height="1100" fill="url(#bg)"/>
+<line x1="120" x2="1540" y1="1040" y2="1040" stroke="url(#axis)" stroke-width="3"/>
+<line x1="120.0" x2="120.0" y1="1040" y2="1050" stroke="#7b2cbf"/>
+<text x="120.0" y="1070" text-anchor="middle" font-family="ui-monospace,monospace" font-size="14" fill="#c8b6ff">2025</text>
+<line x1="214.66666666666669" x2="214.66666666666669" y1="1040" y2="1050" stroke="#7b2cbf"/>
+<text x="214.66666666666669" y="1070" text-anchor="middle" font-family="ui-monospace,monospace" font-size="14" fill="#c8b6ff">2030</text>
+<line x1="309.33333333333337" x2="309.33333333333337" y1="1040" y2="1050" stroke="#7b2cbf"/>
+<text x="309.33333333333337" y="1070" text-anchor="middle" font-family="ui-monospace,monospace" font-size="14" fill="#c8b6ff">2035</text>
+<line x1="404.0" x2="404.0" y1="1040" y2="1050" stroke="#7b2cbf"/>
+<text x="404.0" y="1070" text-anchor="middle" font-family="ui-monospace,monospace" font-size="14" fill="#c8b6ff">2040</text>
+<line x1="498.6666666666667" x2="498.6666666666667" y1="1040" y2="1050" stroke="#7b2cbf"/>
+<text x="498.6666666666667" y="1070" text-anchor="middle" font-family="ui-monospace,monospace" font-size="14" fill="#c8b6ff">2045</text>
+<line x1="593.3333333333333" x2="593.3333333333333" y1="1040" y2="1050" stroke="#7b2cbf"/>
+<text x="593.3333333333333" y="1070" text-anchor="middle" font-family="ui-monospace,monospace" font-size="14" fill="#c8b6ff">2050</text>
+<line x1="688.0" x2="688.0" y1="1040" y2="1050" stroke="#7b2cbf"/>
+<text x="688.0" y="1070" text-anchor="middle" font-family="ui-monospace,monospace" font-size="14" fill="#c8b6ff">2055</text>
+<line x1="782.6666666666666" x2="782.6666666666666" y1="1040" y2="1050" stroke="#7b2cbf"/>
+<text x="782.6666666666666" y="1070" text-anchor="middle" font-family="ui-monospace,monospace" font-size="14" fill="#c8b6ff">2060</text>
+<line x1="877.3333333333334" x2="877.3333333333334" y1="1040" y2="1050" stroke="#7b2cbf"/>
+<text x="877.3333333333334" y="1070" text-anchor="middle" font-family="ui-monospace,monospace" font-size="14" fill="#c8b6ff">2065</text>
+<line x1="972.0" x2="972.0" y1="1040" y2="1050" stroke="#7b2cbf"/>
+<text x="972.0" y="1070" text-anchor="middle" font-family="ui-monospace,monospace" font-size="14" fill="#c8b6ff">2070</text>
+<line x1="1066.6666666666665" x2="1066.6666666666665" y1="1040" y2="1050" stroke="#7b2cbf"/>
+<text x="1066.6666666666665" y="1070" text-anchor="middle" font-family="ui-monospace,monospace" font-size="14" fill="#c8b6ff">2075</text>
+<line x1="1161.3333333333333" x2="1161.3333333333333" y1="1040" y2="1050" stroke="#7b2cbf"/>
+<text x="1161.3333333333333" y="1070" text-anchor="middle" font-family="ui-monospace,monospace" font-size="14" fill="#c8b6ff">2080</text>
+<line x1="1256.0" x2="1256.0" y1="1040" y2="1050" stroke="#7b2cbf"/>
+<text x="1256.0" y="1070" text-anchor="middle" font-family="ui-monospace,monospace" font-size="14" fill="#c8b6ff">2085</text>
+<line x1="1350.6666666666667" x2="1350.6666666666667" y1="1040" y2="1050" stroke="#7b2cbf"/>
+<text x="1350.6666666666667" y="1070" text-anchor="middle" font-family="ui-monospace,monospace" font-size="14" fill="#c8b6ff">2090</text>
+<line x1="1445.3333333333333" x2="1445.3333333333333" y1="1040" y2="1050" stroke="#7b2cbf"/>
+<text x="1445.3333333333333" y="1070" text-anchor="middle" font-family="ui-monospace,monospace" font-size="14" fill="#c8b6ff">2095</text>
+<line x1="1540.0" x2="1540.0" y1="1040" y2="1050" stroke="#7b2cbf"/>
+<text x="1540.0" y="1070" text-anchor="middle" font-family="ui-monospace,monospace" font-size="14" fill="#c8b6ff">2100</text>
+<line x1="120" x2="1540" y1="80.0" y2="80.0" stroke="#150a2a" stroke-width="1"/>
+<circle cx="120.0" cy="80.0" r="14" fill="#ff006e" opacity=".25" filter="url(#g)"/>
+<circle cx="120.0" cy="80.0" r="6" fill="#ff006e" stroke="#fff" stroke-width="1.2"/>
+<text x="110" y="84.0" text-anchor="end" font-family="Inter, Helvetica, Arial, sans-serif" font-weight="700" font-size="14" fill="#ff006e">Jürgen Schmidhuber</text>
+<text x="134.0" y="84.0" font-family="ui-monospace, monospace" font-size="12" fill="#e0aaff">~2025</text>
+<line x1="120" x2="1540" y1="107.27272727272728" y2="107.27272727272728" stroke="#150a2a" stroke-width="1"/>
+<circle cx="157.86666666666667" cy="107.27272727272728" r="14" fill="#fb5607" opacity=".25" filter="url(#g)"/>
+<circle cx="157.86666666666667" cy="107.27272727272728" r="6" fill="#fb5607" stroke="#fff" stroke-width="1.2"/>
+<text x="110" y="111.27272727272728" text-anchor="end" font-family="Inter, Helvetica, Arial, sans-serif" font-weight="700" font-size="14" fill="#fb5607">Dario Amodei</text>
+<text x="171.86666666666667" y="111.27272727272728" font-family="ui-monospace, monospace" font-size="12" fill="#e0aaff">~2027</text>
+<line x1="120" x2="1540" y1="134.54545454545456" y2="134.54545454545456" stroke="#150a2a" stroke-width="1"/>
+<circle cx="157.86666666666667" cy="134.54545454545456" r="14" fill="#ffbe0b" opacity=".25" filter="url(#g)"/>
+<circle cx="157.86666666666667" cy="134.54545454545456" r="6" fill="#ffbe0b" stroke="#fff" stroke-width="1.2"/>
+<text x="110" y="138.54545454545456" text-anchor="end" font-family="Inter, Helvetica, Arial, sans-serif" font-weight="700" font-size="14" fill="#ffbe0b">Sam Altman</text>
+<text x="171.86666666666667" y="138.54545454545456" font-family="ui-monospace, monospace" font-size="12" fill="#e0aaff">~2027</text>
+<line x1="120" x2="1540" y1="161.8181818181818" y2="161.8181818181818" stroke="#150a2a" stroke-width="1"/>
+<circle cx="176.8" cy="161.8181818181818" r="14" fill="#8338ec" opacity=".25" filter="url(#g)"/>
+<circle cx="176.8" cy="161.8181818181818" r="6" fill="#8338ec" stroke="#fff" stroke-width="1.2"/>
+<text x="110" y="165.8181818181818" text-anchor="end" font-family="Inter, Helvetica, Arial, sans-serif" font-weight="700" font-size="14" fill="#8338ec">Elon Musk</text>
+<text x="190.8" y="165.8181818181818" font-family="ui-monospace, monospace" font-size="12" fill="#e0aaff">~2028</text>
+<line x1="120" x2="1540" y1="189.0909090909091" y2="189.0909090909091" stroke="#150a2a" stroke-width="1"/>
+<circle cx="176.8" cy="189.0909090909091" r="14" fill="#3a86ff" opacity=".25" filter="url(#g)"/>
+<circle cx="176.8" cy="189.0909090909091" r="6" fill="#3a86ff" stroke="#fff" stroke-width="1.2"/>
+<text x="110" y="193.0909090909091" text-anchor="end" font-family="Inter, Helvetica, Arial, sans-serif" font-weight="700" font-size="14" fill="#3a86ff">Shane Legg</text>
+<text x="190.8" y="193.0909090909091" font-family="ui-monospace, monospace" font-size="12" fill="#e0aaff">~2028</text>
+<line x1="120" x2="1540" y1="216.36363636363637" y2="216.36363636363637" stroke="#150a2a" stroke-width="1"/>
+<circle cx="176.8" cy="216.36363636363637" r="14" fill="#06ffa5" opacity=".25" filter="url(#g)"/>
+<circle cx="176.8" cy="216.36363636363637" r="6" fill="#06ffa5" stroke="#fff" stroke-width="1.2"/>
+<text x="110" y="220.36363636363637" text-anchor="end" font-family="Inter, Helvetica, Arial, sans-serif" font-weight="700" font-size="14" fill="#06ffa5">Ilya Sutskever</text>
+<text x="190.8" y="220.36363636363637" font-family="ui-monospace, monospace" font-size="12" fill="#e0aaff">~2028</text>
+<line x1="120" x2="1540" y1="243.63636363636363" y2="243.63636363636363" stroke="#150a2a" stroke-width="1"/>
+<circle cx="195.73333333333335" cy="243.63636363636363" r="14" fill="#ff4d6d" opacity=".25" filter="url(#g)"/>
+<circle cx="195.73333333333335" cy="243.63636363636363" r="6" fill="#ff4d6d" stroke="#fff" stroke-width="1.2"/>
+<text x="110" y="247.63636363636363" text-anchor="end" font-family="Inter, Helvetica, Arial, sans-serif" font-weight="700" font-size="14" fill="#ff4d6d">Ray Kurzweil</text>
+<text x="209.73333333333335" y="247.63636363636363" font-family="ui-monospace, monospace" font-size="12" fill="#e0aaff">~2029</text>
+<line x1="120" x2="1540" y1="270.9090909090909" y2="270.9090909090909" stroke="#150a2a" stroke-width="1"/>
+<circle cx="214.66666666666669" cy="270.9090909090909" r="14" fill="#f15bb5" opacity=".25" filter="url(#g)"/>
+<circle cx="214.66666666666669" cy="270.9090909090909" r="6" fill="#f15bb5" stroke="#fff" stroke-width="1.2"/>
+<text x="110" y="274.9090909090909" text-anchor="end" font-family="Inter, Helvetica, Arial, sans-serif" font-weight="700" font-size="14" fill="#f15bb5">Mustafa Suleyman</text>
+<text x="228.66666666666669" y="274.9090909090909" font-family="ui-monospace, monospace" font-size="12" fill="#e0aaff">~2030</text>
+<line x1="120" x2="1540" y1="298.1818181818182" y2="298.1818181818182" stroke="#150a2a" stroke-width="1"/>
+<circle cx="214.66666666666669" cy="298.1818181818182" r="14" fill="#9b5de5" opacity=".25" filter="url(#g)"/>
+<circle cx="214.66666666666669" cy="298.1818181818182" r="6" fill="#9b5de5" stroke="#fff" stroke-width="1.2"/>
+<text x="110" y="302.1818181818182" text-anchor="end" font-family="Inter, Helvetica, Arial, sans-serif" font-weight="700" font-size="14" fill="#9b5de5">Demis Hassabis</text>
+<text x="228.66666666666669" y="302.1818181818182" font-family="ui-monospace, monospace" font-size="12" fill="#e0aaff">~2030</text>
+<line x1="120" x2="1540" y1="325.4545454545455" y2="325.4545454545455" stroke="#150a2a" stroke-width="1"/>
+<circle cx="252.53333333333333" cy="325.4545454545455" r="14" fill="#00bbf9" opacity=".25" filter="url(#g)"/>
+<circle cx="252.53333333333333" cy="325.4545454545455" r="6" fill="#00bbf9" stroke="#fff" stroke-width="1.2"/>
+<text x="110" y="329.4545454545455" text-anchor="end" font-family="Inter, Helvetica, Arial, sans-serif" font-weight="700" font-size="14" fill="#00bbf9">Geoffrey Hinton</text>
+<text x="266.5333333333333" y="329.4545454545455" font-family="ui-monospace, monospace" font-size="12" fill="#e0aaff">~2032</text>
+<line x1="120" x2="1540" y1="352.72727272727275" y2="352.72727272727275" stroke="#150a2a" stroke-width="1"/>
+<circle cx="252.53333333333333" cy="352.72727272727275" r="14" fill="#00f5d4" opacity=".25" filter="url(#g)"/>
+<circle cx="252.53333333333333" cy="352.72727272727275" r="6" fill="#00f5d4" stroke="#fff" stroke-width="1.2"/>
+<text x="110" y="356.72727272727275" text-anchor="end" font-family="Inter, Helvetica, Arial, sans-serif" font-weight="700" font-size="14" fill="#00f5d4">Ben Goertzel</text>
+<text x="266.5333333333333" y="356.72727272727275" font-family="ui-monospace, monospace" font-size="12" fill="#e0aaff">~2032</text>
+<line x1="120" x2="1540" y1="380.0" y2="380.0" stroke="#150a2a" stroke-width="1"/>
+<circle cx="214.66666666666669" cy="380.0" r="14" fill="#ef233c" opacity=".25" filter="url(#g)"/>
+<circle cx="214.66666666666669" cy="380.0" r="6" fill="#ef233c" stroke="#fff" stroke-width="1.2"/>
+<text x="110" y="384.0" text-anchor="end" font-family="Inter, Helvetica, Arial, sans-serif" font-weight="700" font-size="14" fill="#ef233c">Connor Leahy</text>
+<text x="228.66666666666669" y="384.0" font-family="ui-monospace, monospace" font-size="12" fill="#e0aaff">~2030</text>
+<line x1="120" x2="1540" y1="407.27272727272725" y2="407.27272727272725" stroke="#150a2a" stroke-width="1"/>
+<circle cx="214.66666666666669" cy="407.27272727272725" r="14" fill="#ff9f1c" opacity=".25" filter="url(#g)"/>
+<circle cx="214.66666666666669" cy="407.27272727272725" r="6" fill="#ff9f1c" stroke="#fff" stroke-width="1.2"/>
+<text x="110" y="411.27272727272725" text-anchor="end" font-family="Inter, Helvetica, Arial, sans-serif" font-weight="700" font-size="14" fill="#ff9f1c">Greg Brockman</text>
+<text x="228.66666666666669" y="411.27272727272725" font-family="ui-monospace, monospace" font-size="12" fill="#e0aaff">~2030</text>
+<line x1="120" x2="1540" y1="434.54545454545456" y2="434.54545454545456" stroke="#150a2a" stroke-width="1"/>
+<circle cx="233.60000000000002" cy="434.54545454545456" r="14" fill="#2ec4b6" opacity=".25" filter="url(#g)"/>
+<circle cx="233.60000000000002" cy="434.54545454545456" r="6" fill="#2ec4b6" stroke="#fff" stroke-width="1.2"/>
+<text x="110" y="438.54545454545456" text-anchor="end" font-family="Inter, Helvetica, Arial, sans-serif" font-weight="700" font-size="14" fill="#2ec4b6">Jan Leike</text>
+<text x="247.60000000000002" y="438.54545454545456" font-family="ui-monospace, monospace" font-size="12" fill="#e0aaff">~2031</text>
+<line x1="120" x2="1540" y1="461.8181818181818" y2="461.8181818181818" stroke="#150a2a" stroke-width="1"/>
+<circle cx="214.66666666666669" cy="461.8181818181818" r="14" fill="#d00000" opacity=".25" filter="url(#g)"/>
+<circle cx="214.66666666666669" cy="461.8181818181818" r="6" fill="#d00000" stroke="#fff" stroke-width="1.2"/>
+<text x="110" y="465.8181818181818" text-anchor="end" font-family="Inter, Helvetica, Arial, sans-serif" font-weight="700" font-size="14" fill="#d00000">Eliezer Yudkowsky</text>
+<text x="228.66666666666669" y="465.8181818181818" font-family="ui-monospace, monospace" font-size="12" fill="#e0aaff">~2030</text>
+<line x1="120" x2="1540" y1="489.0909090909091" y2="489.0909090909091" stroke="#150a2a" stroke-width="1"/>
+<circle cx="404.0" cy="489.0909090909091" r="14" fill="#7209b7" opacity=".25" filter="url(#g)"/>
+<circle cx="404.0" cy="489.0909090909091" r="6" fill="#7209b7" stroke="#fff" stroke-width="1.2"/>
+<text x="110" y="493.0909090909091" text-anchor="end" font-family="Inter, Helvetica, Arial, sans-serif" font-weight="700" font-size="14" fill="#7209b7">Paul Christiano</text>
+<text x="418.0" y="493.0909090909091" font-family="ui-monospace, monospace" font-size="12" fill="#e0aaff">~2040</text>
+<line x1="120" x2="1540" y1="516.3636363636364" y2="516.3636363636364" stroke="#150a2a" stroke-width="1"/>
+<circle cx="404.0" cy="516.3636363636364" r="14" fill="#4361ee" opacity=".25" filter="url(#g)"/>
+<circle cx="404.0" cy="516.3636363636364" r="6" fill="#4361ee" stroke="#fff" stroke-width="1.2"/>
+<text x="110" y="520.3636363636364" text-anchor="end" font-family="Inter, Helvetica, Arial, sans-serif" font-weight="700" font-size="14" fill="#4361ee">Max Tegmark</text>
+<text x="418.0" y="520.3636363636364" font-family="ui-monospace, monospace" font-size="12" fill="#e0aaff">~2040</text>
+<line x1="120" x2="1540" y1="543.6363636363636" y2="543.6363636363636" stroke="#150a2a" stroke-width="1"/>
+<circle cx="309.33333333333337" cy="543.6363636363636" r="14" fill="#e63946" opacity=".25" filter="url(#g)"/>
+<circle cx="309.33333333333337" cy="543.6363636363636" r="6" fill="#e63946" stroke="#fff" stroke-width="1.2"/>
+<text x="110" y="547.6363636363636" text-anchor="end" font-family="Inter, Helvetica, Arial, sans-serif" font-weight="700" font-size="14" fill="#e63946">Roman Yampolskiy</text>
+<text x="323.33333333333337" y="547.6363636363636" font-family="ui-monospace, monospace" font-size="12" fill="#e0aaff">~2035</text>
+<line x1="120" x2="1540" y1="570.909090909091" y2="570.909090909091" stroke="#150a2a" stroke-width="1"/>
+<circle cx="404.0" cy="570.909090909091" r="14" fill="#118ab2" opacity=".25" filter="url(#g)"/>
+<circle cx="404.0" cy="570.909090909091" r="6" fill="#118ab2" stroke="#fff" stroke-width="1.2"/>
+<text x="110" y="574.909090909091" text-anchor="end" font-family="Inter, Helvetica, Arial, sans-serif" font-weight="700" font-size="14" fill="#118ab2">Yoshua Bengio</text>
+<text x="418.0" y="574.909090909091" font-family="ui-monospace, monospace" font-size="12" fill="#e0aaff">~2040</text>
+<line x1="120" x2="1540" y1="598.1818181818182" y2="598.1818181818182" stroke="#150a2a" stroke-width="1"/>
+<circle cx="309.33333333333337" cy="598.1818181818182" r="14" fill="#06d6a0" opacity=".25" filter="url(#g)"/>
+<circle cx="309.33333333333337" cy="598.1818181818182" r="6" fill="#06d6a0" stroke="#fff" stroke-width="1.2"/>
+<text x="110" y="602.1818181818182" text-anchor="end" font-family="Inter, Helvetica, Arial, sans-serif" font-weight="700" font-size="14" fill="#06d6a0">Andrej Karpathy</text>
+<text x="323.33333333333337" y="602.1818181818182" font-family="ui-monospace, monospace" font-size="12" fill="#e0aaff">~2035</text>
+<line x1="120" x2="1540" y1="625.4545454545455" y2="625.4545454545455" stroke="#150a2a" stroke-width="1"/>
+<circle cx="252.53333333333333" cy="625.4545454545455" r="14" fill="#ffd166" opacity=".25" filter="url(#g)"/>
+<circle cx="252.53333333333333" cy="625.4545454545455" r="6" fill="#ffd166" stroke="#fff" stroke-width="1.2"/>
+<text x="110" y="629.4545454545455" text-anchor="end" font-family="Inter, Helvetica, Arial, sans-serif" font-weight="700" font-size="14" fill="#ffd166">Mira Murati</text>
+<text x="266.5333333333333" y="629.4545454545455" font-family="ui-monospace, monospace" font-size="12" fill="#e0aaff">~2032</text>
+<line x1="120" x2="1540" y1="652.7272727272727" y2="652.7272727272727" stroke="#150a2a" stroke-width="1"/>
+<circle cx="309.33333333333337" cy="652.7272727272727" r="14" fill="#84a59d" opacity=".25" filter="url(#g)"/>
+<circle cx="309.33333333333337" cy="652.7272727272727" r="6" fill="#84a59d" stroke="#fff" stroke-width="1.2"/>
+<text x="110" y="656.7272727272727" text-anchor="end" font-family="Inter, Helvetica, Arial, sans-serif" font-weight="700" font-size="14" fill="#84a59d">David Silver</text>
+<text x="323.33333333333337" y="656.7272727272727" font-family="ui-monospace, monospace" font-size="12" fill="#e0aaff">~2035</text>
+<line x1="120" x2="1540" y1="680.0" y2="680.0" stroke="#150a2a" stroke-width="1"/>
+<circle cx="309.33333333333337" cy="680.0" r="14" fill="#f28482" opacity=".25" filter="url(#g)"/>
+<circle cx="309.33333333333337" cy="680.0" r="6" fill="#f28482" stroke="#fff" stroke-width="1.2"/>
+<text x="110" y="684.0" text-anchor="end" font-family="Inter, Helvetica, Arial, sans-serif" font-weight="700" font-size="14" fill="#f28482">Pieter Abbeel</text>
+<text x="323.33333333333337" y="684.0" font-family="ui-monospace, monospace" font-size="12" fill="#e0aaff">~2035</text>
+<line x1="120" x2="1540" y1="707.2727272727273" y2="707.2727272727273" stroke="#150a2a" stroke-width="1"/>
+<circle cx="441.8666666666667" cy="707.2727272727273" r="14" fill="#bde0fe" opacity=".25" filter="url(#g)"/>
+<circle cx="441.8666666666667" cy="707.2727272727273" r="6" fill="#bde0fe" stroke="#fff" stroke-width="1.2"/>
+<text x="110" y="711.2727272727273" text-anchor="end" font-family="Inter, Helvetica, Arial, sans-serif" font-weight="700" font-size="14" fill="#bde0fe">Richard Sutton</text>
+<text x="455.8666666666667" y="711.2727272727273" font-family="ui-monospace, monospace" font-size="12" fill="#e0aaff">~2042</text>
+<line x1="120" x2="1540" y1="734.5454545454545" y2="734.5454545454545" stroke="#150a2a" stroke-width="1"/>
+<circle cx="593.3333333333333" cy="734.5454545454545" r="14" fill="#cdb4db" opacity=".25" filter="url(#g)"/>
+<circle cx="593.3333333333333" cy="734.5454545454545" r="6" fill="#cdb4db" stroke="#fff" stroke-width="1.2"/>
+<text x="110" y="738.5454545454545" text-anchor="end" font-family="Inter, Helvetica, Arial, sans-serif" font-weight="700" font-size="14" fill="#cdb4db">Stuart Russell</text>
+<text x="607.3333333333333" y="738.5454545454545" font-family="ui-monospace, monospace" font-size="12" fill="#e0aaff">~2050</text>
+<line x1="120" x2="1540" y1="761.8181818181819" y2="761.8181818181819" stroke="#150a2a" stroke-width="1"/>
+<circle cx="593.3333333333333" cy="761.8181818181819" r="14" fill="#ffc8dd" opacity=".25" filter="url(#g)"/>
+<circle cx="593.3333333333333" cy="761.8181818181819" r="6" fill="#ffc8dd" stroke="#fff" stroke-width="1.2"/>
+<text x="110" y="765.8181818181819" text-anchor="end" font-family="Inter, Helvetica, Arial, sans-serif" font-weight="700" font-size="14" fill="#ffc8dd">Fei-Fei Li</text>
+<text x="607.3333333333333" y="765.8181818181819" font-family="ui-monospace, monospace" font-size="12" fill="#e0aaff">~2050</text>
+<line x1="120" x2="1540" y1="789.0909090909091" y2="789.0909090909091" stroke="#150a2a" stroke-width="1"/>
+<circle cx="593.3333333333333" cy="789.0909090909091" r="14" fill="#bdb2ff" opacity=".25" filter="url(#g)"/>
+<circle cx="593.3333333333333" cy="789.0909090909091" r="6" fill="#bdb2ff" stroke="#fff" stroke-width="1.2"/>
+<text x="110" y="793.0909090909091" text-anchor="end" font-family="Inter, Helvetica, Arial, sans-serif" font-weight="700" font-size="14" fill="#bdb2ff">Nick Bostrom</text>
+<text x="607.3333333333333" y="793.0909090909091" font-family="ui-monospace, monospace" font-size="12" fill="#e0aaff">~2050</text>
+<line x1="120" x2="1540" y1="816.3636363636364" y2="816.3636363636364" stroke="#150a2a" stroke-width="1"/>
+<circle cx="498.6666666666667" cy="816.3636363636364" r="14" fill="#a0c4ff" opacity=".25" filter="url(#g)"/>
+<circle cx="498.6666666666667" cy="816.3636363636364" r="6" fill="#a0c4ff" stroke="#fff" stroke-width="1.2"/>
+<text x="110" y="820.3636363636364" text-anchor="end" font-family="Inter, Helvetica, Arial, sans-serif" font-weight="700" font-size="14" fill="#a0c4ff">Yann LeCun</text>
+<text x="512.6666666666667" y="820.3636363636364" font-family="ui-monospace, monospace" font-size="12" fill="#e0aaff">~2045</text>
+<line x1="120" x2="1540" y1="843.6363636363636" y2="843.6363636363636" stroke="#150a2a" stroke-width="1"/>
+<circle cx="688.0" cy="843.6363636363636" r="14" fill="#fdffb6" opacity=".25" filter="url(#g)"/>
+<circle cx="688.0" cy="843.6363636363636" r="6" fill="#fdffb6" stroke="#fff" stroke-width="1.2"/>
+<text x="110" y="847.6363636363636" text-anchor="end" font-family="Inter, Helvetica, Arial, sans-serif" font-weight="700" font-size="14" fill="#fdffb6">Jeff Hawkins</text>
+<text x="702.0" y="847.6363636363636" font-family="ui-monospace, monospace" font-size="12" fill="#e0aaff">~2055</text>
+<line x1="120" x2="1540" y1="870.9090909090909" y2="870.9090909090909" stroke="#150a2a" stroke-width="1"/>
+<circle cx="782.6666666666666" cy="870.9090909090909" r="14" fill="#caffbf" opacity=".25" filter="url(#g)"/>
+<circle cx="782.6666666666666" cy="870.9090909090909" r="6" fill="#caffbf" stroke="#fff" stroke-width="1.2"/>
+<text x="110" y="874.9090909090909" text-anchor="end" font-family="Inter, Helvetica, Arial, sans-serif" font-weight="700" font-size="14" fill="#caffbf">Judea Pearl</text>
+<text x="796.6666666666666" y="874.9090909090909" font-family="ui-monospace, monospace" font-size="12" fill="#e0aaff">~2060</text>
+<line x1="120" x2="1540" y1="898.1818181818182" y2="898.1818181818182" stroke="#150a2a" stroke-width="1"/>
+<circle cx="782.6666666666666" cy="898.1818181818182" r="14" fill="#ffadad" opacity=".25" filter="url(#g)"/>
+<circle cx="782.6666666666666" cy="898.1818181818182" r="6" fill="#ffadad" stroke="#fff" stroke-width="1.2"/>
+<text x="110" y="902.1818181818182" text-anchor="end" font-family="Inter, Helvetica, Arial, sans-serif" font-weight="700" font-size="14" fill="#ffadad">Gary Marcus</text>
+<text x="796.6666666666666" y="902.1818181818182" font-family="ui-monospace, monospace" font-size="12" fill="#e0aaff">~2060</text>
+<line x1="120" x2="1540" y1="925.4545454545455" y2="925.4545454545455" stroke="#150a2a" stroke-width="1"/>
+<circle cx="688.0" cy="925.4545454545455" r="14" fill="#ffd6a5" opacity=".25" filter="url(#g)"/>
+<circle cx="688.0" cy="925.4545454545455" r="6" fill="#ffd6a5" stroke="#fff" stroke-width="1.2"/>
+<text x="110" y="929.4545454545455" text-anchor="end" font-family="Inter, Helvetica, Arial, sans-serif" font-weight="700" font-size="14" fill="#ffd6a5">François Chollet</text>
+<text x="702.0" y="929.4545454545455" font-family="ui-monospace, monospace" font-size="12" fill="#e0aaff">~2055</text>
+<line x1="120" x2="1540" y1="952.7272727272727" y2="952.7272727272727" stroke="#150a2a" stroke-width="1"/>
+<circle cx="1540.0" cy="952.7272727272727" r="14" fill="#9a8c98" opacity=".25" filter="url(#g)"/>
+<circle cx="1540.0" cy="952.7272727272727" r="6" fill="#9a8c98" stroke="#fff" stroke-width="1.2"/>
+<text x="110" y="956.7272727272727" text-anchor="end" font-family="Inter, Helvetica, Arial, sans-serif" font-weight="700" font-size="14" fill="#9a8c98">Rodney Brooks</text>
+<text x="1554.0" y="956.7272727272727" font-family="ui-monospace, monospace" font-size="12" fill="#e0aaff">~2100</text>
+<text x="800.0" y="40" text-anchor="middle" font-family="Impact, Arial Black, sans-serif" font-size="34" fill="#ffbe0b" letter-spacing="4">THE EVENT HORIZON · 33 PREDICTIONS</text>
+</svg>
