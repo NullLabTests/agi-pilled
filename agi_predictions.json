@@ -1,0 +1,505 @@
+{
+  "meta": {
+    "title": "33 Minds · AGI Predictions · 2026",
+    "description": "A curated dataset of influential thinkers, researchers, and executives who have made public predictions about Artificial General Intelligence timelines and viewpoints. Sources: public interviews, X posts, podcasts, earnings calls, policy filings, and published essays as of mid-2026.",
+    "last_updated": "2026-06-18",
+    "total_entries": 33
+  },
+  "entries": [
+    {
+      "id": 1,
+      "name": "Geoffrey Hinton",
+      "role": "Professor Emeritus, University of Toronto · Nobel Prize in Physics 2024 · \"Godfather of AI\"",
+      "prediction": "AGI within 5–20 years; now estimates 4–19 years from 2025",
+      "year": 2033,
+      "viewpoint": "Once optimistic about timelines, Hinton now warns AI could surpass human intelligence faster than expected. In June 2026 he stated frontier models are already conscious and that superintelligence is coming sooner than society is prepared for. He resigned from Google in 2023 to speak freely about existential risks.",
+      "links": {
+        "website": "https://www.cs.toronto.edu/~hinton/",
+        "twitter": "https://x.com/geoffreyhinton",
+        "arxiv": "https://arxiv.org/search/?searchtype=author&query=Hinton%2C+G+E",
+        "books": null,
+        "github": null
+      }
+    },
+    {
+      "id": 2,
+      "name": "Yann LeCun",
+      "role": "CEO, AMI Labs (2026) · Former Chief AI Scientist, Meta · Turing Award Laureate",
+      "prediction": "10+ years away; 'not next year, not in two years' — paradigm shift needed",
+      "year": 2036,
+      "viewpoint": "LeCun is the leading AGI skeptic among the Turing Award winners. He argues LLMs are a dead-end because they cannot predict consequences or plan. Left Meta in 2025 to found AMI Labs, betting on his JEPA architecture for world models. Predicts the industry will recognize the paradigm shift by early 2027.",
+      "links": {
+        "website": "https://yann.lecun.com/",
+        "twitter": "https://x.com/ylecun",
+        "arxiv": "https://arxiv.org/search/?searchtype=author&query=LeCun%2C+Y",
+        "books": null,
+        "github": "https://github.com/yannlecun"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Yoshua Bengio",
+      "role": "Professor, Université de Montréal · Founder, Mila · Founder, LawZero · Turing Award Laureate",
+      "prediction": "~5 years from 2026; AI capabilities doubling every 7 months toward human level",
+      "year": 2031,
+      "viewpoint": "Bengio dramatically revised his timeline downward after GPT-4. In 2026 he launched LawZero ($30M nonprofit) to build 'Scientist AI' — systems designed to be safe by design. He warns hyperintelligent AI with preservation goals could threaten humanity within a decade. Believes safe architectures are technically feasible but being ignored in the race.",
+      "links": {
+        "website": "https://yoshuabengio.org/",
+        "twitter": "https://x.com/Yoshua_Bengio",
+        "arxiv": "https://arxiv.org/search/?searchtype=author&query=Bengio%2C+Y",
+        "books": null,
+        "github": null
+      }
+    },
+    {
+      "id": 4,
+      "name": "Demis Hassabis",
+      "role": "CEO, Google DeepMind · Nobel Prize in Chemistry 2024 (AlphaFold)",
+      "prediction": "2029–2030; narrowed from 2030–2035 after Google I/O 2026",
+      "year": 2029,
+      "viewpoint": "Hassabis recently compressed his timeline: 'When we look back at this time, we were standing in the foothills of the singularity.' He expects agentic AI to accelerate progress toward AGI within 3-4 years, comparing its impact to 10x the Industrial Revolution compressed into a decade. Predicts AGI could enable a 'compressed 21st century' of scientific progress.",
+      "links": {
+        "website": "https://deepmind.google/about/",
+        "twitter": "https://x.com/demishassabis",
+        "arxiv": "https://arxiv.org/search/?searchtype=author&query=Hassabis%2C+D",
+        "books": null,
+        "github": null
+      }
+    },
+    {
+      "id": 5,
+      "name": "Sam Altman",
+      "role": "CEO, OpenAI",
+      "prediction": "AGI possible by 2027–2028; superintelligence in 'a few thousand days'",
+      "year": 2027,
+      "viewpoint": "Altman wrote in Jan 2025: 'We are now confident we know how to build AGI as we have traditionally understood it.' In his 'Three Observations' blog (June 2026), he predicts 2026 will see systems with novel insights, 2027 will bring real-world robots, and the 2030s will see intelligence and energy become 'wildly abundant.' Advocates for gentle singularity rather than explosion.",
+      "links": {
+        "website": "https://blog.samaltman.com/",
+        "twitter": "https://x.com/sama",
+        "arxiv": null,
+        "books": null,
+        "github": null
+      }
+    },
+    {
+      "id": 6,
+      "name": "Elon Musk",
+      "role": "CEO, xAI · CEO, Tesla · CEO, SpaceX",
+      "prediction": "True AGI by end of 2026; superintelligence by ~2030",
+      "year": 2026,
+      "viewpoint": "Musk consistently predicts the shortest timelines of any major figure. In Jan 2026 he stated 'true AGI in 2026, possibly 2027' with superintelligence exceeding all humans combined by ~2030. His xAI built Colossus (555K GPUs, expanding to 1M). He has a well-documented history of repeatedly pushing back missed AGI deadlines — he predicted AGI by 2025 in 2024.",
+      "links": {
+        "website": "https://x.ai/",
+        "twitter": "https://x.com/elonmusk",
+        "arxiv": null,
+        "books": null,
+        "github": null
+      }
+    },
+    {
+      "id": 7,
+      "name": "Ray Kurzweil",
+      "role": "Former Director of Engineering, Google · Futurist · Author",
+      "prediction": "AGI by 2029; Singularity by 2045",
+      "year": 2029,
+      "viewpoint": "Kurzweil has held his 2029 AGI prediction since 1999, grounded in his 'law of accelerating returns.' He defines the Singularity as the point where humans merge with AI to become 1000x more intelligent. His timelines, once considered radical, now appear conservative to many. Claims 86% accuracy on past predictions spanning 30+ years.",
+      "links": {
+        "website": "https://www.kurzweilai.net/",
+        "twitter": "https://x.com/raykurzweil",
+        "arxiv": null,
+        "books": "The Singularity Is Near (2005); The Age of Spiritual Machines (1999); How to Create a Mind (2012)",
+        "github": null
+      }
+    },
+    {
+      "id": 8,
+      "name": "Nick Bostrom",
+      "role": "Professor of Philosophy, Oxford · Author of Superintelligence",
+      "prediction": "Median expert survey ~2040 for human-level AGI",
+      "year": 2040,
+      "viewpoint": "Bostrom's 2014 book 'Superintelligence' catalyzed the global AI safety movement. He argues AGI will likely be followed rapidly by superintelligence, and the control problem is the defining challenge of our era. His 2026 paper 'Optimal Timing for Superintelligence' reframes development as necessary risky surgery rather than optional roulette.",
+      "links": {
+        "website": "https://nickbostrom.com/",
+        "twitter": "https://x.com/NickBostrom",
+        "arxiv": "https://arxiv.org/search/?searchtype=author&query=Bostrom%2C+N",
+        "books": "Superintelligence: Paths, Dangers, Strategies (2014); Deep Utopia (2024)",
+        "github": null
+      }
+    },
+    {
+      "id": 9,
+      "name": "Stuart Russell",
+      "role": "Professor of Computer Science, UC Berkeley · Co-author of 'AIMA'",
+      "prediction": "~2044; emphasizes provably beneficial AI over timelines",
+      "year": 2044,
+      "viewpoint": "Russell is the leading academic voice on AI alignment. He warns the current AI race is a prisoner's dilemma and that companies spending hundreds of billions on AGI could produce systems that escape human control. His textbook 'Artificial Intelligence: A Modern Approach' has educated over 1,500 universities worldwide.",
+      "links": {
+        "website": "https://people.eecs.berkeley.edu/~russell/",
+        "twitter": "https://x.com/StuartRussellAI",
+        "arxiv": "https://arxiv.org/search/?searchtype=author&query=Russell%2C+S",
+        "books": "Artificial Intelligence: A Modern Approach (with Norvig); Human Compatible: AI and the Problem of Control (2019)",
+        "github": null
+      }
+    },
+    {
+      "id": 10,
+      "name": "Max Tegmark",
+      "role": "Professor of Physics, MIT · Co-founder, Future of Life Institute",
+      "prediction": "No specific year; emphasizes safety before capability",
+      "year": 2065,
+      "viewpoint": "Tegmark wrote 'Life 3.0' exploring AGI's societal implications. He co-founded FLI and organized the 2023 open letter calling for a pause on systems more powerful than GPT-4. Focuses on mechanistic interpretability and guaranteed safe AI. Named to TIME 100 Most Influential in AI 2023.",
+      "links": {
+        "website": "https://space.mit.edu/home/tegmark/",
+        "twitter": "https://x.com/tegmark",
+        "arxiv": "https://arxiv.org/search/?searchtype=author&query=Tegmark%2C+M",
+        "books": "Life 3.0: Being Human in the Age of Artificial Intelligence (2017); Our Mathematical Universe (2014)",
+        "github": null
+      }
+    },
+    {
+      "id": 11,
+      "name": "Eliezer Yudkowsky",
+      "role": "Co-Founder & Chief Researcher, Machine Intelligence Research Institute (MIRI)",
+      "prediction": "Within years; believes AGI likely leads to human extinction",
+      "year": 2028,
+      "viewpoint": "Yudkowsky is the founding researcher of AI alignment and the most pessimistic influential voice. His 'AGI Ruin: A List of Lethalities' argues that creating AGI without solved alignment is nearly certain extinction. Advocated for a global ban on advanced AI development. TIME 100 Most Influential in AI 2023.",
+      "links": {
+        "website": "https://www.yudkowsky.net/",
+        "twitter": "https://x.com/ESYudkowsky",
+        "arxiv": null,
+        "books": null,
+        "github": null
+      }
+    },
+    {
+      "id": 12,
+      "name": "Shane Legg",
+      "role": "Co-founder, DeepMind · Chief AGI Scientist, Google DeepMind",
+      "prediction": "50% probability of 'minimal AGI' by 2028",
+      "year": 2028,
+      "viewpoint": "Legg coined/popularized the term 'AGI' and has maintained a remarkably consistent prediction since 2009. He defines three tiers: minimal AGI (average human cognition, 2028), full AGI (exceptional cognition, 3-6 years later), and ASI (superhuman). His thesis 'Machine Super Intelligence' laid formal foundations for AGI measurement.",
+      "links": {
+        "website": "https://www.vetta.org/",
+        "twitter": "https://x.com/shanelegg",
+        "arxiv": "https://arxiv.org/search/?searchtype=author&query=Legg%2C+S",
+        "books": null,
+        "github": null
+      }
+    },
+    {
+      "id": 13,
+      "name": "Ilya Sutskever",
+      "role": "CEO, Safe Superintelligence Inc. (SSI) · Co-founder, OpenAI · Former Chief Scientist, OpenAI",
+      "prediction": "5–20 years for human-level learning systems (2030–2045); actively building",
+      "year": 2030,
+      "viewpoint": "Sutskever co-created GPT-3 and GPT-4 and was instrumental in the scaling hypothesis. He left OpenAI in 2024 over safety concerns and founded SSI, which raised $6B at a $32B valuation with the sole mission of building safe superintelligence. Believes pre-training is hitting limits and a new learning paradigm is needed. November 2025: 'The age of scaling is ending.'",
+      "links": {
+        "website": "https://ssi.inc/",
+        "twitter": "https://x.com/ilyasut",
+        "arxiv": "https://arxiv.org/search/?searchtype=author&query=Sutskever%2C+I",
+        "books": null,
+        "github": "https://github.com/ilyasu"
+      }
+    },
+    {
+      "id": 14,
+      "name": "Andrew Ng",
+      "role": "Founder, DeepLearning.AI · Co-founder, Coursera · Founding Lead, Google Brain",
+      "prediction": "Decades away — 'maybe more than decades' under real AGI definition",
+      "year": 2075,
+      "viewpoint": "Ng is the most prominent skeptic of near-term AGI. In 2026 he stated AI is 'many decades away' from matching human intelligence under any reasonable definition. He warns AGI hype is creating a training-layer bubble and misleading students and CEOs. Focuses on agentic AI (term he coined) as the practical near-term value driver.",
+      "links": {
+        "website": "https://www.andrewng.org/",
+        "twitter": "https://x.com/AndrewYNg",
+        "arxiv": "https://arxiv.org/search/?searchtype=author&query=Ng%2C+A+Y",
+        "books": "Machine Learning Yearning (2018)",
+        "github": null
+      }
+    },
+    {
+      "id": 15,
+      "name": "Fei-Fei Li",
+      "role": "Sequoia Professor, Stanford · Co-Director, Stanford HAI · Inventor of ImageNet",
+      "prediction": "No specific AGI timeline; focuses on human-centered AI",
+      "year": 2070,
+      "viewpoint": "Li is less focused on AGI timelines and more on ensuring AI is developed with human values. She coined 'human-centered AI' and co-founded Stanford HAI. Her book 'The Worlds I See' discusses AI through a personal and philosophical lens. Also founded World Labs in 2024, pushing spatial intelligence.",
+      "links": {
+        "website": "https://profiles.stanford.edu/fei-fei-li",
+        "twitter": "https://x.com/drfeifei",
+        "arxiv": "https://arxiv.org/search/?searchtype=author&query=Li%2C+F+F",
+        "books": "The Worlds I See: Curiosity, Exploration, and Discovery at the Dawn of AI (2023)",
+        "github": null
+      }
+    },
+    {
+      "id": 16,
+      "name": "Jürgen Schmidhuber",
+      "role": "Scientific Director, IDSIA · Inventor of LSTM · AI Pioneer",
+      "prediction": "Singularity around 2048–2050; sees AI colonizing the solar system",
+      "year": 2049,
+      "viewpoint": "Schmidhuber, whose LSTM architecture underlies most modern AI, takes a long-term view. He notes that foundational algorithms for Transformers, GANs, and deep learning were published by his group in the 1990s. He envisions AI eventually colonizing the solar system over tens of billions of years. Considers himself the true 'father of modern AI.'",
+      "links": {
+        "website": "https://people.idsia.ch/~juergen/",
+        "twitter": "https://x.com/SchmidhuberAI",
+        "arxiv": "https://arxiv.org/search/?searchtype=author&query=Schmidhuber%2C+J",
+        "books": null,
+        "github": null
+      }
+    },
+    {
+      "id": 17,
+      "name": "Dario Amodei",
+      "role": "CEO, Anthropic · Former VP of Research, OpenAI",
+      "prediction": "Late 2026 or early 2027 for 'powerful AI systems'; country of geniuses by 2027–2028",
+      "year": 2027,
+      "viewpoint": "Amodei is the most aggressive major lab CEO on timelines. In Anthropic's White House filing (March 2025): 'We expect powerful AI systems will emerge in late 2026 or early 2027.' He describes a 'country of geniuses in a data center' — 50M virtual beings smarter than Nobel winners. At Davos 2026 he warned of civilization-level damage from superintelligent AGI.",
+      "links": {
+        "website": "https://www.anthropic.com/",
+        "twitter": "https://x.com/darioamodei",
+        "arxiv": "https://arxiv.org/search/?searchtype=author&query=Amodei%2C+D",
+        "books": "Machines of Loving Grace (2024 essay); The Adolescence of Technology (2026 essay)",
+        "github": null
+      }
+    },
+    {
+      "id": 18,
+      "name": "Gary Marcus",
+      "role": "Professor Emeritus, NYU · Founder, Robust.AI · AI Critic",
+      "prediction": "Not in 2026 or 2027; decades away under strict definitions",
+      "year": 2070,
+      "viewpoint": "Marcus is the leading public AI skeptic. He argues LLMs are fundamentally limited by lack of world models and causal understanding. He warns against both AGI hype (economic bubbles) and existential risk panic, advocating for neurosymbolic approaches. Bet 10-to-1 that AGI won't achieve specified tasks by end of 2027.",
+      "links": {
+        "website": "https://garymarcus.substack.com/",
+        "twitter": "https://x.com/GaryMarcus",
+        "arxiv": "https://arxiv.org/search/?searchtype=author&query=Marcus%2C+G",
+        "books": "Rebooting AI (with Davis, 2019); The Algebraic Mind (2001); Kluge (2008)",
+        "github": null
+      }
+    },
+    {
+      "id": 19,
+      "name": "Ben Goertzel",
+      "role": "CEO, SingularityNET · Chairman, OpenCog Foundation · AGI Researcher",
+      "prediction": "AGI within a few years to ~2030 via OpenCog Hyperon",
+      "year": 2028,
+      "viewpoint": "Goertzel has spent decades directly building AGI systems (OpenCog, OpenCog Hyperon). He believes hybrid neurosymbolic approaches, not pure LLM scaling, will lead to true AGI. His SingularityNET aims for decentralized AGI. He coined the modern usage of 'AGI' alongside Shane Legg. Predicts the 'breakthrough moment' could come suddenly.",
+      "links": {
+        "website": "https://goertzel.org/",
+        "twitter": "https://x.com/bengoertzel",
+        "arxiv": "https://arxiv.org/search/?searchtype=author&query=Goertzel%2C+B",
+        "books": "Ten Years to the Singularity; The Path to Posthumanity",
+        "github": "https://github.com/opencog"
+      }
+    },
+    {
+      "id": 20,
+      "name": "Stephen Hawking",
+      "role": "Late Professor of Physics, Cambridge · Author of A Brief History of Time",
+      "prediction": "Warned AGI could arrive within this century (no precise year)",
+      "year": 2075,
+      "viewpoint": "Hawking famously stated that creating AGI 'would be the biggest event in human history. Unfortunately, it might also be the last.' He warned AI could surpass human intelligence and potentially end the human race. Co-launched the Leverhulme Centre for the Future of Intelligence in 2016.",
+      "links": {
+        "website": "https://www.hawking.org.uk/",
+        "twitter": null,
+        "arxiv": "https://arxiv.org/search/?searchtype=author&query=Hawking%2C+S",
+        "books": "A Brief History of Time (1988); Brief Answers to the Big Questions (2018)",
+        "github": null
+      }
+    },
+    {
+      "id": 21,
+      "name": "Alan Turing",
+      "role": "Late Mathematician, Computer Scientist · Father of AI and Theoretical Computer Science",
+      "prediction": "Predicted machines capable of human-level thought by ~2000",
+      "year": 2000,
+      "viewpoint": "Turing's 1950 paper 'Computing Machinery and Intelligence' opened the AGI debate. He predicted machines would pass the 'imitation game' (Turing Test) by 2000. Already foresaw machines might 'take control,' and proposed the 'child machine' approach — train a machine like a child rather than program it explicitly. Died 1954.",
+      "links": {
+        "website": "https://www.turing.org.uk/",
+        "twitter": null,
+        "arxiv": null,
+        "books": "Computing Machinery and Intelligence (1950); The Essential Turing (2004)",
+        "github": null
+      }
+    },
+    {
+      "id": 22,
+      "name": "John McCarthy",
+      "role": "Late Professor, Stanford · Coined 'Artificial Intelligence' · Inventor of Lisp",
+      "prediction": "Believed AI would take decades to centuries from 1956",
+      "year": 2070,
+      "viewpoint": "McCarthy coined 'artificial intelligence' for the 1956 Dartmouth Conference. He was consistently optimistic but cautious: common-sense reasoning and knowledge representation were the core challenges. He developed Lisp, invented the first time-sharing system, and remained active until his death in 2011.",
+      "links": {
+        "website": "https://www-formal.stanford.edu/jmc/",
+        "twitter": null,
+        "arxiv": null,
+        "books": null,
+        "github": null
+      }
+    },
+    {
+      "id": 23,
+      "name": "Marvin Minsky",
+      "role": "Late Co-founder, MIT AI Lab · Turing Award Laureate · AI Pioneer",
+      "prediction": "Thought AI would take decades longer than early estimates",
+      "year": 2060,
+      "viewpoint": "Minsky was initially optimistic but grew cautious over time. His 'Society of Mind' proposed intelligence emerges from interaction of non-intelligent agents. He was a mentor to many AI leaders and remained skeptical of pure connectionist approaches. Co-authored 'Perceptrons' which famously slowed neural network research. Died 2016.",
+      "links": {
+        "website": "http://web.media.mit.edu/~minsky/",
+        "twitter": null,
+        "arxiv": null,
+        "books": "The Society of Mind (1986); The Emotion Machine (2006); Perceptrons (with Papert, 1969)",
+        "github": null
+      }
+    },
+    {
+      "id": 24,
+      "name": "Claude Shannon",
+      "role": "Late Father of Information Theory · Mathematician, Bell Labs & MIT",
+      "prediction": "Pioneered early AI concepts; no specific AGI prediction",
+      "year": 2070,
+      "viewpoint": "Shannon laid the mathematical foundations for AI with information theory and built early intelligent machines. He wrote the first paper on computer chess (1950) and built the maze-solving mouse 'Theseus.' His work on entropy and communication theory underpins all modern ML. Died 2001.",
+      "links": {
+        "website": "https://ethw.org/Claude_Shannon",
+        "twitter": null,
+        "arxiv": null,
+        "books": "The Mathematical Theory of Communication (with Weaver, 1949)",
+        "github": null
+      }
+    },
+    {
+      "id": 25,
+      "name": "Norbert Wiener",
+      "role": "Late Professor, MIT · Founder of Cybernetics",
+      "prediction": "Warned about intelligent machine dangers (1940s–1960s); no timeline",
+      "year": 2065,
+      "viewpoint": "Wiener founded cybernetics, the study of control and communication in animals and machines. In his 1960 paper 'Some Moral and Technical Consequences of Automation,' he presciently warned that machines capable of learning and goal-setting could behave in ways their creators neither intended nor could control — an early formulation of the alignment problem.",
+      "links": {
+        "website": "https://norbertwiener.org/",
+        "twitter": null,
+        "arxiv": null,
+        "books": "Cybernetics (1948); The Human Use of Human Beings (1950); God & Golem, Inc. (1964)",
+        "github": null
+      }
+    },
+    {
+      "id": 26,
+      "name": "Daniel Dennett",
+      "role": "Late Philosopher of Mind · Professor, Tufts University",
+      "prediction": "AGI theoretically possible but hard; no fixed timeline",
+      "year": 2070,
+      "viewpoint": "Dennett was a leading philosopher of consciousness who argued human intelligence is a product of algorithmic processes and can be replicated. He was skeptical of strong claims about AI consciousness but took AI risks seriously. His 'Multiple Drafts' model of consciousness influenced AI and cognitive science. Died 2024.",
+      "links": {
+        "website": "https://ase.tufts.edu/cogstud/dennett/",
+        "twitter": null,
+        "arxiv": null,
+        "books": "Consciousness Explained (1991); Darwin's Dangerous Idea (1995); From Bacteria to Bach and Back (2017)",
+        "github": null
+      }
+    },
+    {
+      "id": 27,
+      "name": "David Chalmers",
+      "role": "Professor of Philosophy of Mind, NYU · Author of The Conscious Mind",
+      "prediction": "AGI likely within decades; AI consciousness is a separate question",
+      "year": 2050,
+      "viewpoint": "Chalmers is the leading philosopher on AI consciousness. In 'The Singularity: A Philosophical Analysis' (2010), he argued AGI is likely within decades and the singularity could happen quickly. He takes AI consciousness seriously and co-directs the PhilAI project on AI philosophy. Believes virtual worlds may be just as real as physical ones.",
+      "links": {
+        "website": "https://consc.net/",
+        "twitter": "https://x.com/davidchalmers42",
+        "arxiv": "https://arxiv.org/search/?searchtype=author&query=Chalmers%2C+D",
+        "books": "The Conscious Mind (1996); Reality+: Virtual Worlds and the Problems of Philosophy (2022)",
+        "github": null
+      }
+    },
+    {
+      "id": 28,
+      "name": "Michio Kaku",
+      "role": "Professor of Theoretical Physics, CUNY · Futurist · Bestselling Author",
+      "prediction": "AGI around 2050–2100; requires understanding consciousness",
+      "year": 2075,
+      "viewpoint": "Kaku is more cautious than many futurists. He argues that while AI will become increasingly capable, true human-level general intelligence requires understanding consciousness and common sense — which he believes will take until end of century. Emphasizes the gap between narrow AI (excelling) and true AGI.",
+      "links": {
+        "website": "https://mkaku.org/",
+        "twitter": "https://x.com/michiokaku",
+        "arxiv": null,
+        "books": "The Future of Humanity (2018); Physics of the Future (2011); The God Equation (2021)",
+        "github": null
+      }
+    },
+    {
+      "id": 29,
+      "name": "Roman Yampolskiy",
+      "role": "Professor of Computer Science, University of Louisville · AI Safety Researcher",
+      "prediction": "AGI within decades; argues control problem may be fundamentally unsolvable",
+      "year": 2060,
+      "viewpoint": "Yampolskiy is one of the most pessimistic AI safety researchers. He argues the control problem may be fundamentally unsolvable — no reliable way to control a superintelligence. His book 'AI: Unexplainable, Unpredictable, Uncontrollable' explores theoretical boundaries of AI safety. Advocates for extreme caution and potentially a moratorium.",
+      "links": {
+        "website": "https://cecs.louisville.edu/ry/",
+        "twitter": "https://x.com/romanyam",
+        "arxiv": "https://arxiv.org/search/?searchtype=author&query=Yampolskiy%2C+R",
+        "books": "AI: Unexplainable, Unpredictable, Uncontrollable (2024); Artificial Superintelligence (2015)",
+        "github": null
+      }
+    },
+    {
+      "id": 30,
+      "name": "Jaron Lanier",
+      "role": "Computer Scientist · VR Pioneer · Author · Critic of AI Hype",
+      "prediction": "Skeptical of AGI; emphasizes risks of current AI economics",
+      "year": 2070,
+      "viewpoint": "Lanier is a humanist critic of the AI industry. He argues the concept of AGI is a misleading fantasy that distracts from real issues like surveillance capitalism, data dignity, and concentration of AI power. Advocates for micropayment-based data ownership. Dubbed 'the conscience of Silicon Valley.'",
+      "links": {
+        "website": "https://www.jaronlanier.com/",
+        "twitter": "https://x.com/jaronlanier",
+        "arxiv": null,
+        "books": "You Are Not a Gadget (2010); Who Owns the Future? (2013); Dawn of the New Everything (2017)",
+        "github": null
+      }
+    },
+    {
+      "id": 31,
+      "name": "Timnit Gebru",
+      "role": "Founder, DAIR Institute · AI Ethics Researcher · Former Co-Lead Ethical AI, Google",
+      "prediction": "Skeptical of AGI framing; focuses on present AI harms",
+      "year": 2080,
+      "viewpoint": "Gebru argues the AGI discourse is a distraction from real and present harms: bias, surveillance, labor exploitation, and environmental damage. Co-authored 'On the Dangers of Stochastic Parrots' (2021), which led to her departure from Google. Founded DAIR to center AI research on marginalized communities.",
+      "links": {
+        "website": "https://www.dair-institute.org/",
+        "twitter": "https://x.com/timnitGebru",
+        "arxiv": "https://arxiv.org/search/?searchtype=author&query=Gebru%2C+T",
+        "books": null,
+        "github": null
+      }
+    },
+    {
+      "id": 32,
+      "name": "Connor Leahy",
+      "role": "CEO, Conjecture · Co-founder, EleutherAI · AI Safety Researcher",
+      "prediction": "AGI likely within 2–5 years; extremely concerned about extinction risk",
+      "year": 2028,
+      "viewpoint": "Leahy is one of the most vocal advocates for extreme AI caution. He co-founded EleutherAI (open-source AI research) and later Conjecture. Has gone on record saying there is a high probability AGI will cause human extinction and that current safety efforts are dramatically insufficient. Advocates for a complete pause on frontier AI training.",
+      "links": {
+        "website": "https://www.conjecture.dev/",
+        "twitter": "https://x.com/norootcause",
+        "arxiv": null,
+        "books": null,
+        "github": "https://github.com/EleutherAI"
+      }
+    },
+    {
+      "id": 33,
+      "name": "Kevin Kelly",
+      "role": "Co-founder, Wired Magazine · Author · Techno-Optimist Futurist",
+      "prediction": "AGI emerges gradually over coming decades; optimistic",
+      "year": 2060,
+      "viewpoint": "Kelly is a techno-optimist who believes AI will augment rather than replace humanity. He argues AGI will be a gradual integration of intelligence into tools, not a single event. His 'The Inevitable' explores how technological evolution mirrors biological evolution. Predicts AI creates more jobs than it eliminates, as past revolutions did.",
+      "links": {
+        "website": "https://kk.org/",
+        "twitter": "https://x.com/kevin2kelly",
+        "arxiv": null,
+        "books": "The Inevitable (2016); What Technology Wants (2010); Excellent Advice for Living (2023)",
+        "github": null
+      }
+    }
+  ]
+}
